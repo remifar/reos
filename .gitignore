@@ -1,0 +1,26 @@
+# Qwen local-only memory
+.qwen/QWEN.local.md
+.qwen/projects/
+.qwen/cache/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Build
+target/
+node_modules/
+dist/
+build/
+
+# Data
+data/
+backups/
+logs/
+plugins/*/
+!plugins/.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db
