@@ -1,0 +1,2 @@
+Discover → Validate → Install → Migrate → Enable → Configure
+→ Operate → Upgrade → Disable → Uninstall
